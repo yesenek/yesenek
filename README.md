@@ -1,4 +1,4 @@
-## Hi there 👋
+## Curious About Systems
 
 <!--
 **yesenek/yesenek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Gomoku Poster](https://raw.githubusercontent.com/yesenek/Gomoku-C/main/Poster2.jpg)](https://github.com/yesenek/Gomoku-C)
